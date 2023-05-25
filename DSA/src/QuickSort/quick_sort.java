@@ -1,5 +1,5 @@
 package QuickSort;
-
+// time complexity: O(nlogn)
 public class quick_sort {
 
     public static void quicksort(int[] arr) {

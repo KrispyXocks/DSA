@@ -7,7 +7,7 @@ class BSTNode {
 
     public BSTNode(int data) {
         this.data = data;
-        left = right = null;
+        right = left = null;
     }
 
     public void addChild(BSTNode newNode) {
